@@ -1,0 +1,16 @@
+1 La raiz es "A".
+2 hay 3 caminos de longitud "3".
+3 si es un camino.
+4 los ancestros de K:  J , C y A.
+5 los ancestros de N:  E y A.
+6 no tiene descendientes M.
+7 los nodos hojas son: H,I,L,M,D,P,Q.
+8 altura de C: 1.
+9 altura del arbol: 4.
+10 nivel de C: 1.
+11 E es el hermano del lado derecho de D.
+12 no, i no es hermano de F .
+13 si
+14 no 
+15 a la izquierda de J estan F y i y a la derecha N
+16 A tiene 4 hijos
